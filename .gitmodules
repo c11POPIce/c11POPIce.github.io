@@ -2,3 +2,6 @@
 	path = Breakout
 	url = https://github.com/AlvinJIa/Team10.git
 	branch = dev
+[submodule "Iteration1"]
+	path = Iteration1
+	url = https://github.com/AlvinJIa/Team10.git
