@@ -20,3 +20,15 @@
 	path = Iteration3
 	url = https://github.com/AlvinJIa/Team10.git
 	branch = Iteration3
+[submodule "Iteration3.01"]
+	path = Iteration3.01
+	url = https://github.com/AlvinJIa/Team10.git
+	branch = Iteration3.01
+[submodule "Iteration4"]
+	path = Iteration4
+	url = https://github.com/AlvinJIa/Team10.git
+	branch = Iteration4
+[submodule "Iteration4.01"]
+	path = Iteration4.01
+	url = https://github.com/AlvinJIa/Team10.git
+	branch = Iteration4.01
